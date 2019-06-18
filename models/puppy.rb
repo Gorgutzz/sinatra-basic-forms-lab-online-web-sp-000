@@ -8,6 +8,4 @@ class Puppy
   end
 
 
-
 end
-  
