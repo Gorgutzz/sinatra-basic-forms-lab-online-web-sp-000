@@ -7,8 +7,5 @@ class Puppy
     @months_old = months_old
   end
 
-  post '/puppy' do
-    erb :display_puppy
-  end
 
 end
