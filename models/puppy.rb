@@ -1,5 +1,4 @@
 class Puppy
-
     attr_accessor :name, :breed, :months_old
 
     def initialize(name, breed, months_old)
@@ -8,4 +7,4 @@ class Puppy
         @months_old = months_old
     end
 
-end 
+end
